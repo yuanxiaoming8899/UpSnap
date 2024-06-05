@@ -1,156 +1,216 @@
-<div align="center" width="100%">
-    <img src="frontend/static/gopher.svg" width="150" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" width="100%" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/frontend/static/gopher.svg"><img src="/seriousm4x/UpSnap/raw/master/frontend/static/gopher.svg" width="150" style="max-width: 100%;"></a>
 </div>
-
-<div align="center" width="100%">
-    <h2>UpSnap</h2>
-    <p>A simple wake on lan web app written with SvelteKit, Go and PocketBase.</p>
-    <a target="_blank" href="https://github.com/seriousm4x/upsnap"><img src="https://img.shields.io/github/stars/seriousm4x/upsnap" /></a>
-    <a target="_blank" href="https://github.com/seriousm4x/UpSnap/releases"><img src="https://img.shields.io/github/downloads/seriousm4x/upsnap/total" /></a>
-    <a target="_blank" href="https://github.com/seriousm4x/UpSnap/releases"><img src="https://img.shields.io/github/go-mod/go-version/seriousm4x/UpSnap?filename=backend/go.mod" /></a>
-    <a target="_blank" href="https://github.com/seriousm4x/UpSnap/releases"><img src="https://img.shields.io/github/v/release/seriousm4x/upsnap?display_name=tag" /></a>
-    <a target="_blank" href="https://github.com/seriousm4x/UpSnap/actions"><img src="https://github.com/seriousm4x/upsnap/actions/workflows/release.yml/badge.svg?event=push" /></a>
-    <a target="_blank" href="https://github.com/seriousm4x/UpSnap/commits/master"><img src="https://img.shields.io/github/last-commit/seriousm4x/upsnap" /></a>
+<div align="center" width="100%" dir="auto">
+    <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上传者：UpSnap</font></font></h2><a id="user-content-upsnap" class="anchor" aria-label="固定链接：UpSnap" href="#upsnap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+    <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用 SvelteKit、Go 和 PocketBase 编写的简单局域网唤醒网络应用程序。</font></font></p>
+    <a href="https://github.com/seriousm4x/upsnap"><img src="https://camo.githubusercontent.com/43562e336957dfc65519b326f50515d13ed40046325a46135788b99e5034a118/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f736572696f75736d34782f7570736e6170" data-canonical-src="https://img.shields.io/github/stars/seriousm4x/upsnap" style="max-width: 100%;"></a>
+    <a href="https://github.com/seriousm4x/UpSnap/releases"><img src="https://camo.githubusercontent.com/ab163986cd968fe5e5ab1cf0a48bc90c0384d7198f36978cacf5f150ebda2b36/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f736572696f75736d34782f7570736e61702f746f74616c" data-canonical-src="https://img.shields.io/github/downloads/seriousm4x/upsnap/total" style="max-width: 100%;"></a>
+    <a href="https://github.com/seriousm4x/UpSnap/releases"><img src="https://camo.githubusercontent.com/336a8b02516df1189ead8cc4ebaf773c4e07191124a16304a4cde5cd9fef5ca8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f676f2d6d6f642f676f2d76657273696f6e2f736572696f75736d34782f5570536e61703f66696c656e616d653d6261636b656e642f676f2e6d6f64" data-canonical-src="https://img.shields.io/github/go-mod/go-version/seriousm4x/UpSnap?filename=backend/go.mod" style="max-width: 100%;"></a>
+    <a href="https://github.com/seriousm4x/UpSnap/releases"><img src="https://camo.githubusercontent.com/81d8b6f1461c35567701544437ffb505b2af5347c2525c0e5574ec33c0c5891f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f736572696f75736d34782f7570736e61703f646973706c61795f6e616d653d746167" data-canonical-src="https://img.shields.io/github/v/release/seriousm4x/upsnap?display_name=tag" style="max-width: 100%;"></a>
+    <a href="https://github.com/seriousm4x/UpSnap/actions"><img src="https://github.com/seriousm4x/upsnap/actions/workflows/release.yml/badge.svg?event=push" style="max-width: 100%;"></a>
+    <a href="https://github.com/seriousm4x/UpSnap/commits/master"><img src="https://camo.githubusercontent.com/7bd2f4d3aa116a37e6ee1ff42e3512f9775cbb8feb515704e4a4cdae2d205f15/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f736572696f75736d34782f7570736e6170" data-canonical-src="https://img.shields.io/github/last-commit/seriousm4x/upsnap" style="max-width: 100%;"></a>
 </div>
-
-## ✨ Features
-
--   🚀 One-Click Device Wake-Up Dashboard
--   ⏰ Timed Events via Cron for Automation
--   🔌 Ping Any Port You Choose
--   🔍 Discover Devices with Network Scanning (nmap required)
--   👤 Secured User Management
--   🌐 i18n support for [these](https://github.com/seriousm4x/UpSnap/tree/master/frontend/src/lib/i18n) languages
--   🎨 29 Themes
--   🐳 [Docker images](https://github.com/seriousm4x/UpSnap/pkgs/container/upsnap) for amd64, arm64, arm/v7, arm/v6
--   🏠 Self-Hostable, No Cloud Bullshit!
-
-## 📸 Screenshots
-
-| Dark                              | Light                              |
-| --------------------------------- | ---------------------------------- |
-| ![](/assets/home-dark.webp)       | ![](/assets/home-light.webp)       |
-| ![](/assets/account-dark.webp)    | ![](/assets/account-light.webp)    |
-| ![](/assets/new-manual-dark.webp) | ![](/assets/new-manual-light.webp) |
-| ![](/assets/new-scan-dark.webp)   | ![](/assets/new-scan-light.webp)   |
-| ![](/assets/settings-dark.webp)   | ![](/assets/settings-light.webp)   |
-| ![](/assets/users-dark.webp)      | ![](/assets/users-light.webp)      |
-
-## 🐧 Install from the [AUR](https://aur.archlinux.org/packages/upsnap-bin)
-
-```bash
-yay -Sy upsnap-bin
-```
-
-## 🚀 Run the binary
-
-Just download the latest binary from the [release page](https://github.com/seriousm4x/UpSnap/releases) and run it.
-
-### Root:
-
-```bash
-sudo ./upsnap serve --http=0.0.0.0:8090
-```
-
-### Non-root:
-
-```bash
-sudo setcap cap_net_raw=+ep ./upsnap # only once after downloading
-./upsnap serve --http=0.0.0.0:8090
-```
-
-For more options check `./upsnap --help` or visit [PocketBase documentation](https://pocketbase.io/docs).
-
-If you want to use network discovery, make sure to have `nmap` installed and run UpSnap as root/admin.
-
-## 🐳 Run in docker
-
-You can use the [docker-compose](docker-compose.yml) example. See the comments in the file for customization.
-
-### Non-root docker user:
-
-Create the mount point first:
-
-```bash
-mkdir data
-```
-
-Then add `user: 1000:1000` to the docker-compose file (or whatever your $UID:$GID is).
-
-### Change port
-
-If you want to change the port from 8090 to something else, change the following (5000 in this case):
-
-```yml
-entrypoint: /bin/sh -c "./upsnap serve --http 0.0.0.0:5000"
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 特点</font></font></h2><a id="user-content--features" class="anchor" aria-label="固定链接：✨ 功能" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 一键唤醒设备仪表板</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⏰ 通过 Cron 实现定时事件自动化</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔌 Ping 您选择的任意端口</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔍 使用网络扫描发现设备（需要 nmap）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👤 安全的用户管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐 i18n 支持</font></font><a href="https://github.com/seriousm4x/UpSnap/tree/master/frontend/src/lib/i18n"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这些</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎨 29 个主题</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐳</font><font style="vertical-align: inherit;">适用于 amd64、arm64、arm/v7、arm/v6 的</font></font><a href="https://github.com/seriousm4x/UpSnap/pkgs/container/upsnap"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 映像</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏠 自托管，无云废话！</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📸 截图</font></font></h2><a id="user-content--screenshots" class="anchor" aria-label="永久链接：📸 截图" href="#-screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<table>
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">黑暗的</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">光</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/home-dark.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/home-dark.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/home-light.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/home-light.webp" alt="" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/account-dark.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/account-dark.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/account-light.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/account-light.webp" alt="" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/new-manual-dark.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/new-manual-dark.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/new-manual-light.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/new-manual-light.webp" alt="" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/new-scan-dark.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/new-scan-dark.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/new-scan-light.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/new-scan-light.webp" alt="" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/settings-dark.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/settings-dark.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/settings-light.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/settings-light.webp" alt="" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/users-dark.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/users-dark.webp" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="/seriousm4x/UpSnap/blob/master/assets/users-light.webp"><img src="/seriousm4x/UpSnap/raw/master/assets/users-light.webp" alt="" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐧 从</font></font><a href="https://aur.archlinux.org/packages/upsnap-bin" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AUR安装</font></font></a></h2><a id="user-content--install-from-the-aur" class="anchor" aria-label="永久链接：🐧 从 AUR 安装" href="#-install-from-the-aur"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>yay -Sy upsnap-bin</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="yay -Sy upsnap-bin" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 运行二进制文件</font></font></h2><a id="user-content--run-the-binary" class="anchor" aria-label="永久链接：🚀 运行二进制文件" href="#-run-the-binary"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/seriousm4x/UpSnap/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需从发布页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载最新的二进制文件</font><font style="vertical-align: inherit;">并运行它。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根：</font></font></h3><a id="user-content-root" class="anchor" aria-label="永久链接： 根：" href="#root"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>sudo ./upsnap serve --http=0.0.0.0:8090</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo ./upsnap serve --http=0.0.0.0:8090" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非 root 用户：</font></font></h3><a id="user-content-non-root" class="anchor" aria-label="永久链接：非root用户：" href="#non-root"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>sudo setcap cap_net_raw=+ep ./upsnap <span class="pl-c"><span class="pl-c">#</span> only once after downloading</span>
+./upsnap serve --http=0.0.0.0:8090</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo setcap cap_net_raw=+ep ./upsnap # only once after downloading
+./upsnap serve --http=0.0.0.0:8090" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如需更多选项，请查看</font></font><code>./upsnap --help</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或访问</font></font><a href="https://pocketbase.io/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PocketBase 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想使用网络发现，请确保已</font></font><code>nmap</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以 root/admin 身份安装并运行 UpSnap。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐳 在 docker 中运行</font></font></h2><a id="user-content--run-in-docker" class="anchor" aria-label="永久链接：🐳 在 docker 中运行" href="#-run-in-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以使用</font></font><a href="/seriousm4x/UpSnap/blob/master/docker-compose.yml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker-compose</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例。请参阅文件中的注释以进行自定义。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非root docker 用户：</font></font></h3><a id="user-content-non-root-docker-user" class="anchor" aria-label="永久链接：非 root docker 用户：" href="#non-root-docker-user"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先创建挂载点：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>mkdir data</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mkdir data" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后添加</font></font><code>user: 1000:1000</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">到 docker-compose 文件（或任何你的 $UID:$GID）。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更改端口</font></font></h3><a id="user-content-change-port" class="anchor" aria-label="永久链接：更改端口" href="#change-port"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果要将端口从 8090 更改为其他端口，请更改以下内容（在本例中为 5000）：</font></font></p>
+<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-ent">entrypoint</span>: <span class="pl-s">/bin/sh -c "./upsnap serve --http 0.0.0.0:5000"</span>
+<span class="pl-ent">healthcheck</span>:
+    <span class="pl-ent">test</span>: <span class="pl-s">curl -fs "http://localhost:5000/api/health" || exit 1</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="entrypoint: /bin/sh -c &quot;./upsnap serve --http 0.0.0.0:5000&quot;
 healthcheck:
-    test: curl -fs "http://localhost:5000/api/health" || exit 1
-```
-
-### Install additional packages for shutdown cmd
-
-```yml
-entrypoint: /bin/sh -c "apk update && apk add --no-cache <YOUR_PACKAGE> && rm -rf /var/cache/apk/* && ./upsnap serve --http 0.0.0.0:8090"
-```
-
-You can search for your needed package [here](https://pkgs.alpinelinux.org/packages).
-
-### Reverse Proxy
-
-**Caddy example**
-
-```
-upsnap.example.com {
+    test: curl -fs &quot;http://localhost:5000/api/health&quot; || exit 1" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装关机 cmd 的附加软件包</font></font></h3><a id="user-content-install-additional-packages-for-shutdown-cmd" class="anchor" aria-label="永久链接：为关机 cmd 安装附加软件包" href="#install-additional-packages-for-shutdown-cmd"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-ent">entrypoint</span>: <span class="pl-s">/bin/sh -c "apk update &amp;&amp; apk add --no-cache &lt;YOUR_PACKAGE&gt; &amp;&amp; rm -rf /var/cache/apk/* &amp;&amp; ./upsnap serve --http 0.0.0.0:8090"</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="entrypoint: /bin/sh -c &quot;apk update &amp;&amp; apk add --no-cache <YOUR_PACKAGE> &amp;&amp; rm -rf /var/cache/apk/* &amp;&amp; ./upsnap serve --http 0.0.0.0:8090&quot;" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://pkgs.alpinelinux.org/packages" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索您需要的包</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反向代理</font></font></h3><a id="user-content-reverse-proxy" class="anchor" aria-label="永久链接：反向代理" href="#reverse-proxy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Caddy 示例</font></font></strong></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>upsnap.example.com {
     reverse_proxy localhost:8090
 }
-```
-
-## 🔒 User permissions
-
-UpSnap offers unique access for each user, per device. While admins have all permissions, they can assign specific rights to users such as displaying/hiding a device, accessing device editing, deleting and powering devices on/off. See the last screenshot in the [📸 Screenshots section](#-screenshots).
-
-## 🌍 Exposing to the open web
-
-Although UpSnap has user authorisation, it is **not recommended to expose it to the open web** and make it accessible by everyone!
-
-**Reason**: The shutdown device command is basically a command piped to #sh (root if you run docker). If anyone gains unauthorized access and can abuse this api route in any way, the attacker has access to a (root) shell on your local network.
-
-**Recommended**: If you need access from outside your network, please use a vpn. Wireguard or OpenVPN is your way to go.
-
-## 🌐 Help translating
-
-UpSnap is available in the following languages so far:
-
--   🇺🇸 **English** (en-US)
--   🇩🇪 **German** (de-DE)
--   🇫🇷 **French** (fr-FR)
--   🇵🇹 **Portuguese** (pt-PT)
--   🇨🇳 **Chinese** (zh-CN)
-
-**If you want to contribute and help translating, check the wiki: [How to add languages](https://github.com/seriousm4x/UpSnap/wiki/How-to-add-languages)**
-
-## 🔧 Help developing
-
-Fork this branch and clone it.
-
-1. Start backend
-
-```sh
-cd backend
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="upsnap.example.com {
+    reverse_proxy localhost:8090
+}" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔒 用户权限</font></font></h2><a id="user-content--user-permissions" class="anchor" aria-label="永久链接：🔒 用户权限" href="#-user-permissions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UpSnap 为每台设备的每个用户提供独特的访问权限。虽然管理员拥有所有权限，但他们可以为用户分配特定权限，例如显示/隐藏设备、访问设备编辑、删除和打开/关闭设备。请参阅</font></font><a href="#-screenshots"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📸 屏幕截图部分</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的最后一张屏幕截图。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌍 暴露于开放网络</font></font></h2><a id="user-content--exposing-to-the-open-web" class="anchor" aria-label="永久链接：🌍 暴露于开放网络" href="#-exposing-to-the-open-web"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然 UpSnap 有用户授权，但不</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建议将其暴露在开放的网络上</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并让每个人都可以访问！</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">原因</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：关闭设备命令基本上是通过管道传送到 #sh（如果运行 docker，则为 root）的命令。如果任何人获得未经授权的访问权限并以任何方式滥用此 api 路由，则攻击者可以访问您本地网络上的 (root) shell。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建议</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：如果您需要从网络外部访问，请使用 vpn。Wireguard 或 OpenVPN 是您的最佳选择。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐 帮助翻译</font></font></h2><a id="user-content--help-translating" class="anchor" aria-label="永久链接：🌐 帮助翻译" href="#-help-translating"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目前，UpSnap 支持以下语言：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🇺🇸</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">英语</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（en-US）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🇩🇪</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">德语</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(de-DE)</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🇪🇸</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">西班牙语</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（es-ES）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🇫🇷</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">法语</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(fr-FR)</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🇵🇹</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">葡萄牙语</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(pt-PT)</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🇨🇳</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中文</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（zh-CN）</font></font></li>
+</ul>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果你想贡献并帮助翻译，请查看 wiki：</font></font><a href="https://github.com/seriousm4x/UpSnap/wiki/How-to-add-languages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何添加语言</font></font></a></strong></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔧 帮助开发</font></font></h2><a id="user-content--help-developing" class="anchor" aria-label="永久链接：🔧 帮助开发" href="#-help-developing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分叉此分支并克隆它。</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动后端</font></font></li>
+</ol>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> backend
 go mod tidy
-go run main.go serve
-```
-
-2. Start frontend
-
-```sh
-cd frontend
+go run main.go serve</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd backend
+go mod tidy
+go run main.go serve" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ol start="2" dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动前端</font></font></li>
+</ol>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> frontend
 pnpm i
-pnpm run dev
-```
-
-Open up [http://localhost:5173/](http://localhost:5173/), create an admin user and add some devices.
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=seriousm4x/UpSnap&type=Date&theme=dark)](https://star-history.com/#seriousm4x/UpSnap&Date)
+pnpm run dev</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd frontend
+pnpm i
+pnpm run dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开</font></font><a href="http://localhost:5173/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:5173/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，创建一个管理员用户并添加一些设备。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 明星历史</font></font></h2><a id="user-content--star-history" class="anchor" aria-label="永久链接：🌟 明星历史" href="#-star-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://star-history.com/#seriousm4x/UpSnap&amp;Date" rel="nofollow"><img src="https://camo.githubusercontent.com/ce80b6874cc9ba2bc0534523546cbeb10798d96b1d68448d0548f48894d57d36/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d736572696f75736d34782f5570536e617026747970653d44617465267468656d653d6461726b" alt="星历史图" data-canonical-src="https://api.star-history.com/svg?repos=seriousm4x/UpSnap&amp;type=Date&amp;theme=dark" style="max-width: 100%;"></a></p>
+</article></div>
